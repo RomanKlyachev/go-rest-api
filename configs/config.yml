@@ -1,0 +1,7 @@
+port: "8880"
+
+DBHost: "localhost"
+DBPort: "5436"
+DBUsername: "postgres"
+DBName:   "postgres"
+DBSSLMode: "disable"
